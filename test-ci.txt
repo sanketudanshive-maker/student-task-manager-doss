@@ -1,1 +1,2 @@
 Jenkins automatic build test
+Testing Jenkins polling trigger
